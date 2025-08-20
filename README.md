@@ -1,0 +1,1 @@
+# identificaci-n-de-Entidades-Atributos-Dominios-y-Clave-Primaria
