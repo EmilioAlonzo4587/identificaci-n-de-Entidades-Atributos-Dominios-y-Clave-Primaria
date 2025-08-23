@@ -8,7 +8,7 @@ IDENTIDADES, ATRIBUTOS, DOMINIO Y LLAVES PRIMARIAS
 
 01... TORNEO
 
- 	id\_torneo  	//INRT	//llave primaria
+ 	id\_torneo  	//INT	//llave primaria
 
  	nombre     	//VARCHAR
 
